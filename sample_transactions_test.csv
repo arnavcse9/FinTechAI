@@ -1,0 +1,6 @@
+Date,Transaction_ID,Merchant,Category,Amount_USD,Location,Risk_Score,Status,AI_Audit_Note
+2025-05-14,TXN-99501,OFFSHORE-WIRE-NODE-X,Wire / Unverified FX,6450.00,Limassol CY,0.95,Flagged Anomaly,CRITICAL: Unverified offshore settlement node
+2025-05-13,TXN-99502,AWS Cloud Services,Cloud & SaaS,610.50,San Jose US,0.08,Verified,Normal recurring cloud infrastructure billing
+2025-05-12,TXN-99503,GENEVA-HOROLOGY-VIP,Luxury Retail,4200.00,Geneva CH,0.89,Flagged Anomaly,HIGH RISK: High-ticket cross-border CNP transaction
+2025-05-11,TXN-99504,Delta Air Lines,Travel,580.00,Atlanta US,0.11,Verified,Known executive travel corridor
+2025-05-10,TXN-99505,Whole Foods Market,Groceries,164.20,Austin US,0.04,Verified,Standard chip-and-PIN local transaction
